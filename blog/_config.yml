@@ -13,9 +13,9 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: http://debuggingfuture.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -106,3 +106,12 @@ deploy:
   type: git
   repo: git@github.com:vincentlaucy/debuggingfuture.com.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: gh-pages
+
+feed:
+  # Generate both atom and rss2 feeds
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
