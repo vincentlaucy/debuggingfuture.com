@@ -1,6 +1,7 @@
 ---
 title: Married
 tags: [self, micro-blog, okinawa, japan]
+categories: [life]
 date: 2019-11-10
 ---
 On the 10th anniversary are we married 🙂 Thanks so much for all the blessings.

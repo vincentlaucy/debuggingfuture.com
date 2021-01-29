@@ -1,6 +1,7 @@
 ---
 title: 反逃犯條例
-tags: [berlin, history]
+tags: [hk]
+categories: [thoughts, hk]
 date: 2019-11-10
 ---
 好多人常常等「支爆」，

@@ -1,0 +1,102 @@
+<%
+    //migrated from nuxt
+    const tagsMeta = [
+    {
+      title: 'vincent',
+      titleCht: '',
+      tags: [
+        {
+          tag: 'motto',
+          tagCht: '箴'
+        },
+        {
+          tag: 'collaboration',
+          tagCht: '合作'
+        },
+        {
+          tag: 'about',
+          tagCht: 'About'
+        }
+      ]
+    },
+    {
+      title: 'work',
+      titleCht: '作',
+      tags: [
+        {
+          tag:'voyage wine',
+          tagCht: '',
+          infos: [
+            'voyagewine.md',
+          ]
+        },
+        {
+          tag:'experience',
+          tagCht: '經驗'
+        },
+        {
+          tag:'engineering',
+          tagCht: '工程'
+        },
+        {
+          tag:'show me the code',
+          tagCht: ''
+        },
+        {
+          tag:'code4hk',
+          tagCht: ''
+        },
+      ]
+    },
+    {
+      title: 'thoughts',
+      titleCht: '想',
+      tags: [
+        {
+          tag:'Hong Kong',
+          tagCht: '香港'
+        },
+        {
+          tag:'life',
+          tagCht: '生'
+        }
+      ]
+    },
+    {
+      title: 'life',
+      titleCht: '活',
+      tags: [
+        {
+          tag:'life',
+          tagCht: '生'
+        }
+      ]
+    }
+
+  ];
+
+%>
+
+
+
+<script>
+  let selectedTag = '';
+  //ejs hard to make use of js
+  const onClickTagMeta = (tag)=>{
+    // console.log('onClickTagMeta', tag);
+    // jquery to show/hide
+  }
+</script>
+
+<div id="navbar">
+  <% tagsMeta.forEach(function(tagMeta){ %>
+    <ul class="tags">
+      <li >
+        <a href="/categories/<%= tagMeta.title %>" onClick="onClickTagMeta('<%= tagMeta.title %>');">
+            <%= tagMeta.title %> <%= tagMeta.titleCht %>
+        </a>
+      </li>
+    </ul>
+  <% }); %>
+
+</div>

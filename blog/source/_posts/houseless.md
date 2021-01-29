@@ -1,6 +1,7 @@
 ---
 title: 沒有樓的阿飛正傳
 tags: [hk]
+categories: [thoughts, hk]
 date: 2019-05-05
 ---
 

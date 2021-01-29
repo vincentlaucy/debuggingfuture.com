@@ -1,6 +1,7 @@
 ---
 title: 字話字說 -  Majulah
 tags: [wordtale, singapore, hk, malay]
+categories: [thoughts, hk]
 date: 2020-08-20
 ---
 

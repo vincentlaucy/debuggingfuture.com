@@ -1,6 +1,7 @@
 ---
 title: 城市的訊息
 tags: [hk]
+categories: [thoughts, hk]
 date: 2015-05-25
 ---
 早前掀起「香港科網已死？」的話題，有種種論述。

@@ -1,6 +1,7 @@
 ---
 title: Proposal
 tags: [self, Rovaniemi, Finland]
+categories: [life]
 date: 2017-12-30
 ---
 

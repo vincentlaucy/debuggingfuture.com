@@ -1,6 +1,7 @@
 ---
 title: About
 tags: [self]
+categories: [vincent]
 date: 1988-11-18
 ---
 

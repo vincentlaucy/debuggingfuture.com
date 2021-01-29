@@ -1,6 +1,7 @@
 ---
 title: 立
 tags: [hk,self]
+categories: [thoughts, hk]
 date: 2018-08-13
 ---
 
