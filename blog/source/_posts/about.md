@@ -7,7 +7,7 @@ date: 1988-11-18
 ### Debugging Future by Vincent Lau
 
 ---
-Email: lauchunyin@gmail.com
+Email: lauchunyin@debuggingfuture.com / vincent@debuggingfuture.com
 Matrix: @vincentlcy:matrix.org
 Github: https://github.com/vincentlaucy
 ---
